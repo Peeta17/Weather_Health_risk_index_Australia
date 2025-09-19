@@ -7,7 +7,7 @@ library(patchwork)
 library(ggspatial)
 library(viridis)
 library(cowplot)
-
+library(xgboost)
 
 #all data
 train_df <- readRDS("train_df.rds")
