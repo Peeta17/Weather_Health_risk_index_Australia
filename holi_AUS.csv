@@ -1,0 +1,574 @@
+"","holiday_name","date"
+"1","New Year's Day",1951-01-01
+"2","Australia Day",1951-01-29
+"3","Good Friday",1951-03-23
+"4","Holy Saturday",1951-03-24
+"5","Easter Monday",1951-03-26
+"6","ANZAC Day (Many regions)",1951-04-25
+"7","Christmas Day",1951-12-25
+"8","Boxing Day",1951-12-26
+"596","New Year's Day",1952-01-01
+"597","Australia Day",1952-01-28
+"598","Good Friday",1952-04-11
+"599","Holy Saturday",1952-04-12
+"600","Easter Monday",1952-04-14
+"601","ANZAC Day (Many regions)",1952-04-25
+"602","Christmas Day",1952-12-25
+"603","Boxing Day",1952-12-26
+"1191","New Year's Day",1953-01-01
+"1192","Australia Day",1953-01-26
+"1193","Good Friday",1953-04-03
+"1194","Holy Saturday",1953-04-04
+"1195","Easter Monday",1953-04-06
+"1196","ANZAC Day (Many regions)",1953-04-25
+"1197","Christmas Day",1953-12-25
+"1198","Boxing Day",1953-12-26
+"1787","New Year's Day",1954-01-01
+"1788","Australia Day",1954-02-01
+"1789","Good Friday",1954-04-16
+"1790","Holy Saturday",1954-04-17
+"1791","Easter Monday",1954-04-19
+"1792","ANZAC Day (Many regions)",1954-04-25
+"1793","Christmas Day",1954-12-25
+"1794","Boxing Day",1954-12-26
+"2408","New Year's Day",1955-01-01
+"2409","Australia Day",1955-01-31
+"2410","Good Friday",1955-04-08
+"2411","Holy Saturday",1955-04-09
+"2412","Easter Monday",1955-04-11
+"2413","ANZAC Day (Many regions)",1955-04-25
+"2414","Christmas Day",1955-12-25
+"2415","Boxing Day",1955-12-26
+"3025","New Year's Day",1956-01-01
+"3026","Australia Day",1956-01-30
+"3027","Good Friday",1956-03-30
+"3028","Holy Saturday",1956-03-31
+"3029","Easter Monday",1956-04-02
+"3030","ANZAC Day (Many regions)",1956-04-25
+"3031","Christmas Day",1956-12-25
+"3032","Boxing Day",1956-12-26
+"3660","New Year's Day",1957-01-01
+"3661","Australia Day",1957-01-28
+"3662","Good Friday",1957-04-19
+"3663","Holy Saturday",1957-04-20
+"3664","Easter Monday",1957-04-22
+"3665","ANZAC Day (Many regions)",1957-04-25
+"3666","Christmas Day",1957-12-25
+"3667","Boxing Day",1957-12-26
+"4293","New Year's Day",1958-01-01
+"4294","Australia Day",1958-01-27
+"4295","Good Friday",1958-04-04
+"4296","Holy Saturday",1958-04-05
+"4297","Easter Monday",1958-04-07
+"4298","ANZAC Day (Many regions)",1958-04-25
+"4299","Christmas Day",1958-12-25
+"4300","Boxing Day",1958-12-26
+"4924","New Year's Day",1959-01-01
+"4925","Australia Day",1959-01-26
+"4926","Good Friday",1959-03-27
+"4927","Holy Saturday",1959-03-28
+"4928","Easter Monday",1959-03-30
+"4929","ANZAC Day (Many regions)",1959-04-25
+"4930","Christmas Day",1959-12-25
+"4931","Boxing Day",1959-12-26
+"5554","New Year's Day",1960-01-01
+"5555","Australia Day",1960-02-01
+"5556","Good Friday",1960-04-15
+"5557","Holy Saturday",1960-04-16
+"5558","Easter Monday",1960-04-18
+"5559","ANZAC Day (Many regions)",1960-04-25
+"5560","Christmas Day",1960-12-25
+"5561","Boxing Day",1960-12-26
+"6294","New Year's Day",1961-01-01
+"6295","Australia Day",1961-01-30
+"6296","Good Friday",1961-03-31
+"6297","Holy Saturday",1961-04-01
+"6298","Easter Monday",1961-04-03
+"6299","ANZAC Day (Many regions)",1961-04-25
+"6300","Christmas Day",1961-12-25
+"6301","Boxing Day",1961-12-26
+"7035","New Year's Day",1962-01-01
+"7036","Australia Day",1962-01-29
+"7037","Good Friday",1962-04-20
+"7038","Holy Saturday",1962-04-21
+"7039","Easter Monday",1962-04-23
+"7040","ANZAC Day (Many regions)",1962-04-25
+"7041","Christmas Day",1962-12-25
+"7042","Boxing Day",1962-12-26
+"7815","New Year's Day",1963-01-01
+"7816","Australia Day",1963-01-28
+"7817","Good Friday",1963-04-12
+"7818","Holy Saturday",1963-04-13
+"7819","Easter Monday",1963-04-15
+"7820","ANZAC Day (Many regions)",1963-04-25
+"7821","Christmas Day",1963-12-25
+"7822","Boxing Day",1963-12-26
+"8600","New Year's Day",1964-01-01
+"8601","Australia Day",1964-01-27
+"8602","Good Friday",1964-03-27
+"8603","Holy Saturday",1964-03-28
+"8604","Easter Monday",1964-03-30
+"8605","ANZAC Day (Many regions)",1964-04-25
+"8606","Christmas Day",1964-12-25
+"8607","Boxing Day",1964-12-26
+"9392","New Year's Day",1965-01-01
+"9393","Australia Day",1965-02-01
+"9394","Good Friday",1965-04-16
+"9395","Holy Saturday",1965-04-17
+"9396","Easter Monday",1965-04-19
+"9397","ANZAC Day (Many regions)",1965-04-25
+"9398","Christmas Day",1965-12-25
+"9399","Boxing Day",1965-12-26
+"10190","New Year's Day",1966-01-01
+"10191","Australia Day",1966-01-31
+"10192","Good Friday",1966-04-08
+"10193","Holy Saturday",1966-04-09
+"10194","Easter Monday",1966-04-11
+"10195","ANZAC Day (Many regions)",1966-04-25
+"10196","Christmas Day",1966-12-25
+"10197","Boxing Day",1966-12-26
+"11011","New Year's Day",1967-01-01
+"11012","Australia Day",1967-01-30
+"11013","Good Friday",1967-03-24
+"11014","Holy Saturday",1967-03-25
+"11015","Easter Monday",1967-03-27
+"11016","ANZAC Day (Many regions)",1967-04-25
+"11017","Christmas Day",1967-12-25
+"11018","Boxing Day",1967-12-26
+"11856","New Year's Day",1968-01-01
+"11857","Australia Day",1968-01-29
+"11858","Good Friday",1968-04-12
+"11859","Holy Saturday",1968-04-13
+"11860","Easter Monday",1968-04-15
+"11861","ANZAC Day (Many regions)",1968-04-25
+"11862","Christmas Day",1968-12-25
+"11863","Boxing Day",1968-12-26
+"12765","New Year's Day",1969-01-01
+"12766","Australia Day",1969-01-27
+"12767","Good Friday",1969-04-04
+"12768","Holy Saturday",1969-04-05
+"12769","Easter Monday",1969-04-07
+"12770","ANZAC Day (Many regions)",1969-04-25
+"12771","Christmas Day",1969-12-25
+"12772","Boxing Day",1969-12-26
+"13641","New Year's Day",1970-01-01
+"13642","Australia Day",1970-01-26
+"13643","Good Friday",1970-03-27
+"13644","Holy Saturday",1970-03-28
+"13645","Easter Monday",1970-03-30
+"13646","ANZAC Day (Many regions)",1970-04-25
+"13647","Christmas Day",1970-12-25
+"13648","Boxing Day",1970-12-26
+"14535","New Year's Day",1971-01-01
+"14536","Australia Day",1971-02-01
+"14537","Good Friday",1971-04-09
+"14538","Holy Saturday",1971-04-10
+"14539","Easter Monday",1971-04-12
+"14540","ANZAC Day (Many regions)",1971-04-25
+"14541","Christmas Day",1971-12-25
+"14542","Boxing Day",1971-12-26
+"15442","New Year's Day",1972-01-01
+"15443","Australia Day",1972-01-31
+"15444","Good Friday",1972-03-31
+"15445","Holy Saturday",1972-04-01
+"15446","Easter Monday",1972-04-03
+"15447","ANZAC Day (Many regions)",1972-04-25
+"15448","Christmas Day",1972-12-25
+"15449","Boxing Day",1972-12-26
+"16338","New Year's Day",1973-01-01
+"16339","Australia Day",1973-01-29
+"16340","Good Friday",1973-04-20
+"16341","Holy Saturday",1973-04-21
+"16342","Easter Monday",1973-04-23
+"16343","ANZAC Day (Many regions)",1973-04-25
+"16344","Christmas Day",1973-12-25
+"16345","Boxing Day",1973-12-26
+"17248","New Year's Day",1974-01-01
+"17249","Australia Day",1974-01-28
+"17250","Good Friday",1974-04-12
+"17251","Holy Saturday",1974-04-13
+"17252","Easter Monday",1974-04-15
+"17253","ANZAC Day (Many regions)",1974-04-25
+"17254","Christmas Day",1974-12-25
+"17255","Boxing Day",1974-12-26
+"18184","New Year's Day",1975-01-01
+"18185","Australia Day",1975-01-27
+"18186","Good Friday",1975-03-28
+"18187","Holy Saturday",1975-03-29
+"18188","Easter Monday",1975-03-31
+"18189","ANZAC Day (Many regions)",1975-04-25
+"18190","Christmas Day",1975-12-25
+"18191","Boxing Day",1975-12-26
+"19137","New Year's Day",1976-01-01
+"19138","Australia Day",1976-01-26
+"19139","Good Friday",1976-04-16
+"19140","Holy Saturday",1976-04-17
+"19141","Easter Monday",1976-04-19
+"19142","ANZAC Day (Many regions)",1976-04-25
+"19143","Christmas Day",1976-12-25
+"19144","Boxing Day",1976-12-26
+"20114","New Year's Day",1977-01-01
+"20115","Australia Day",1977-01-31
+"20116","Good Friday",1977-04-08
+"20117","Holy Saturday",1977-04-09
+"20118","Easter Monday",1977-04-11
+"20119","ANZAC Day (Many regions)",1977-04-25
+"20120","Christmas Day",1977-12-25
+"20121","Boxing Day",1977-12-26
+"21082","New Year's Day",1978-01-01
+"21083","Australia Day",1978-01-30
+"21084","Good Friday",1978-03-24
+"21085","Holy Saturday",1978-03-25
+"21086","Easter Monday",1978-03-27
+"21087","ANZAC Day (Many regions)",1978-04-25
+"21088","Christmas Day",1978-12-25
+"21089","Boxing Day",1978-12-26
+"22077","New Year's Day",1979-01-01
+"22078","Australia Day",1979-01-29
+"22079","Good Friday",1979-04-13
+"22080","Holy Saturday",1979-04-14
+"22081","Easter Monday",1979-04-16
+"22082","ANZAC Day (Many regions)",1979-04-25
+"22083","Christmas Day",1979-12-25
+"22084","Boxing Day",1979-12-26
+"23109","New Year's Day",1980-01-01
+"23110","Australia Day",1980-01-28
+"23111","Good Friday",1980-04-04
+"23112","Holy Saturday",1980-04-05
+"23113","Easter Monday",1980-04-07
+"23114","ANZAC Day (Many regions)",1980-04-25
+"23115","Christmas Day",1980-12-25
+"23116","Boxing Day",1980-12-26
+"24165","New Year's Day",1981-01-01
+"24166","Australia Day",1981-01-26
+"24167","Good Friday",1981-04-17
+"24168","Holy Saturday",1981-04-18
+"24169","Easter Monday",1981-04-20
+"24170","ANZAC Day (Many regions)",1981-04-25
+"24171","Christmas Day",1981-12-25
+"24172","Boxing Day",1981-12-26
+"25254","New Year's Day",1982-01-01
+"25255","Australia Day",1982-02-01
+"25256","Good Friday",1982-04-09
+"25257","Holy Saturday",1982-04-10
+"25258","Easter Monday",1982-04-12
+"25259","ANZAC Day (Many regions)",1982-04-25
+"25260","Christmas Day",1982-12-25
+"25261","Boxing Day",1982-12-26
+"26363","New Year's Day",1983-01-01
+"26364","Australia Day",1983-01-31
+"26365","Good Friday",1983-04-01
+"26366","Holy Saturday",1983-04-02
+"26367","Easter Monday",1983-04-04
+"26368","ANZAC Day (Many regions)",1983-04-25
+"26369","Christmas Day",1983-12-25
+"26370","Boxing Day",1983-12-26
+"27467","New Year's Day",1984-01-01
+"27468","Australia Day",1984-01-30
+"27469","Good Friday",1984-04-20
+"27470","Holy Saturday",1984-04-21
+"27471","Easter Monday",1984-04-23
+"27472","ANZAC Day (Many regions)",1984-04-25
+"27473","Christmas Day",1984-12-25
+"27474","Boxing Day",1984-12-26
+"28603","New Year's Day",1985-01-01
+"28604","Australia Day",1985-01-28
+"28605","Good Friday",1985-04-05
+"28606","Holy Saturday",1985-04-06
+"28607","Easter Monday",1985-04-08
+"28608","ANZAC Day (Many regions)",1985-04-25
+"28609","Christmas Day",1985-12-25
+"28610","Boxing Day",1985-12-26
+"29727","New Year's Day",1986-01-01
+"29728","Australia Day",1986-01-27
+"29729","Good Friday",1986-03-28
+"29730","Holy Saturday",1986-03-29
+"29731","Easter Monday",1986-03-31
+"29732","ANZAC Day (Many regions)",1986-04-25
+"29733","Christmas Day",1986-12-25
+"29734","Boxing Day",1986-12-26
+"30894","New Year's Day",1987-01-01
+"30895","Australia Day",1987-01-26
+"30896","Good Friday",1987-04-17
+"30897","Holy Saturday",1987-04-18
+"30898","Easter Monday",1987-04-20
+"30899","ANZAC Day (Many regions)",1987-04-25
+"30900","Christmas Day",1987-12-25
+"30901","Boxing Day",1987-12-26
+"32072","New Year's Day",1988-01-01
+"32073","Australia Day",1988-02-01
+"32074","Good Friday",1988-04-01
+"32075","Holy Saturday",1988-04-02
+"32076","Easter Monday",1988-04-04
+"32077","ANZAC Day (Many regions)",1988-04-25
+"32078","Christmas Day",1988-12-25
+"32079","Boxing Day",1988-12-26
+"33255","New Year's Day",1989-01-01
+"33256","Australia Day",1989-01-30
+"33257","Good Friday",1989-03-24
+"33258","Holy Saturday",1989-03-25
+"33259","Easter Monday",1989-03-27
+"33260","ANZAC Day (Many regions)",1989-04-25
+"33261","Christmas Day",1989-12-25
+"33262","Boxing Day",1989-12-26
+"34461","New Year's Day",1990-01-01
+"34462","Australia Day",1990-01-29
+"34463","Good Friday",1990-04-13
+"34464","Holy Saturday",1990-04-14
+"34465","Easter Monday",1990-04-16
+"34466","ANZAC Day (Many regions)",1990-04-25
+"34467","Christmas Day",1990-12-25
+"34468","Boxing Day",1990-12-26
+"35720","New Year's Day",1991-01-01
+"35721","Australia Day",1991-01-28
+"35722","Good Friday",1991-03-29
+"35723","Holy Saturday",1991-03-30
+"35724","Easter Monday",1991-04-01
+"35725","ANZAC Day (Many regions)",1991-04-25
+"35726","Christmas Day",1991-12-25
+"35727","Boxing Day",1991-12-26
+"37038","New Year's Day",1992-01-01
+"37039","Australia Day",1992-01-27
+"37040","Good Friday",1992-04-17
+"37041","Holy Saturday",1992-04-18
+"37042","Easter Monday",1992-04-20
+"37043","ANZAC Day (Many regions)",1992-04-25
+"37044","Christmas Day",1992-12-25
+"37045","Boxing Day",1992-12-26
+"38397","New Year's Day",1993-01-01
+"38398","Australia Day",1993-02-01
+"38399","Good Friday",1993-04-09
+"38400","Holy Saturday",1993-04-10
+"38401","Easter Monday",1993-04-12
+"38402","ANZAC Day (Many regions)",1993-04-25
+"38403","Christmas Day",1993-12-25
+"38404","Boxing Day",1993-12-26
+"39822","New Year's Day",1994-01-01
+"39823","Australia Day",1994-01-31
+"39824","Good Friday",1994-04-01
+"39825","Holy Saturday",1994-04-02
+"39826","Easter Monday",1994-04-04
+"39827","ANZAC Day (Many regions)",1994-04-25
+"39828","Christmas Day",1994-12-25
+"39829","Boxing Day",1994-12-26
+"41291","New Year's Day",1995-01-01
+"41292","Australia Day",1995-01-26
+"41293","Good Friday",1995-04-14
+"41294","Holy Saturday",1995-04-15
+"41295","Easter Monday",1995-04-17
+"41296","ANZAC Day (Many regions)",1995-04-25
+"41297","Christmas Day",1995-12-25
+"41298","Boxing Day",1995-12-26
+"42766","New Year's Day",1996-01-01
+"42767","Australia Day",1996-01-26
+"42768","Good Friday",1996-04-05
+"42769","Holy Saturday",1996-04-06
+"42770","Easter Monday",1996-04-08
+"42771","ANZAC Day (Many regions)",1996-04-25
+"42772","Christmas Day",1996-12-25
+"42773","Boxing Day",1996-12-26
+"44252","New Year's Day",1997-01-01
+"44253","Australia Day",1997-01-26
+"44254","Good Friday",1997-03-28
+"44255","Holy Saturday",1997-03-29
+"44256","Easter Monday",1997-03-31
+"44257","ANZAC Day (Many regions)",1997-04-25
+"44258","Christmas Day",1997-12-25
+"44259","Boxing Day",1997-12-26
+"45757","New Year's Day",1998-01-01
+"45758","Australia Day",1998-01-26
+"45759","Good Friday",1998-04-10
+"45760","Holy Saturday",1998-04-11
+"45761","Easter Monday",1998-04-13
+"45762","ANZAC Day (Many regions)",1998-04-25
+"45763","Christmas Day",1998-12-25
+"45764","Boxing Day",1998-12-26
+"47269","New Year's Day",1999-01-01
+"47270","Australia Day",1999-01-26
+"47271","Good Friday",1999-04-02
+"47272","Holy Saturday",1999-04-03
+"47273","Easter Monday",1999-04-05
+"47274","ANZAC Day (Many regions)",1999-04-25
+"47275","Christmas Day",1999-12-25
+"47276","Boxing Day",1999-12-26
+"48832","New Year's Day",2000-01-01
+"48833","Australia Day",2000-01-26
+"48834","Good Friday",2000-04-21
+"48835","Holy Saturday",2000-04-22
+"48836","Easter Monday",2000-04-24
+"48837","ANZAC Day (Many regions)",2000-04-25
+"48838","Christmas Day",2000-12-25
+"48839","Boxing Day",2000-12-26
+"50611","New Year's Day",2001-01-01
+"50612","Australia Day",2001-01-26
+"50613","Good Friday",2001-04-13
+"50614","Holy Saturday",2001-04-14
+"50615","Easter Monday",2001-04-16
+"50616","ANZAC Day (Many regions)",2001-04-25
+"50617","Christmas Day",2001-12-25
+"50618","Boxing Day",2001-12-26
+"52373","New Year's Day",2002-01-01
+"52374","Australia Day",2002-01-26
+"52375","Good Friday",2002-03-29
+"52376","Holy Saturday",2002-03-30
+"52377","Easter Monday",2002-04-01
+"52378","ANZAC Day (Many regions)",2002-04-25
+"52379","Christmas Day",2002-12-25
+"52380","Boxing Day",2002-12-26
+"54170","New Year's Day",2003-01-01
+"54171","Australia Day",2003-01-26
+"54172","Good Friday",2003-04-18
+"54173","Holy Saturday",2003-04-19
+"54174","Easter Monday",2003-04-21
+"54175","ANZAC Day (Many regions)",2003-04-25
+"54176","Christmas Day",2003-12-25
+"54177","Boxing Day",2003-12-26
+"56042","New Year's Day",2004-01-01
+"56043","Australia Day",2004-01-26
+"56044","Good Friday",2004-04-09
+"56045","Holy Saturday",2004-04-10
+"56046","Easter Monday",2004-04-12
+"56047","ANZAC Day (Many regions)",2004-04-25
+"56048","Christmas Day",2004-12-25
+"56049","Boxing Day",2004-12-26
+"57939","New Year's Day",2005-01-01
+"57940","Australia Day",2005-01-26
+"57941","Good Friday",2005-03-25
+"57942","Holy Saturday",2005-03-26
+"57943","Easter Monday",2005-03-28
+"57944","ANZAC Day (Many regions)",2005-04-25
+"57945","Christmas Day",2005-12-25
+"57946","Boxing Day",2005-12-26
+"59951","New Year's Day",2006-01-01
+"59952","Australia Day",2006-01-26
+"59953","Good Friday",2006-04-14
+"59954","Holy Saturday",2006-04-15
+"59955","Easter Monday",2006-04-17
+"59956","ANZAC Day (Many regions)",2006-04-25
+"59957","Christmas Day",2006-12-25
+"59958","Boxing Day",2006-12-26
+"62024","New Year's Day",2007-01-01
+"62025","Australia Day",2007-01-26
+"62026","Good Friday",2007-04-06
+"62027","Holy Saturday",2007-04-07
+"62028","Easter Monday",2007-04-09
+"62029","ANZAC Day (Many regions)",2007-04-25
+"62030","Christmas Day",2007-12-25
+"62031","Boxing Day",2007-12-26
+"64129","New Year's Day",2008-01-01
+"64130","Australia Day",2008-01-26
+"64131","Good Friday",2008-03-21
+"64132","Holy Saturday",2008-03-22
+"64133","Easter Monday",2008-03-24
+"64134","ANZAC Day (Many regions)",2008-04-25
+"64135","Christmas Day",2008-12-25
+"64136","Boxing Day",2008-12-26
+"66249","New Year's Day",2009-01-01
+"66250","Australia Day",2009-01-26
+"66251","Good Friday",2009-04-10
+"66252","Holy Saturday",2009-04-11
+"66253","Easter Monday",2009-04-13
+"66254","ANZAC Day (Many regions)",2009-04-25
+"66255","Christmas Day",2009-12-25
+"66256","Boxing Day",2009-12-26
+"68441","New Year's Day",2010-01-01
+"68442","Australia Day",2010-01-26
+"68443","Good Friday",2010-04-02
+"68444","Easter Monday",2010-04-05
+"68445","ANZAC Day (Many regions)",2010-04-25
+"68446","Christmas Day",2010-12-25
+"68447","Boxing Day",2010-12-26
+"70748","New Year's Day",2011-01-01
+"70749","Australia Day",2011-01-26
+"70750","Good Friday",2011-04-22
+"70751","Easter Monday",2011-04-25
+"70752","ANZAC Day (Most regions)",2011-04-25
+"70753","Additional Public Holiday (Most regions)",2011-04-26
+"70754","Christmas Day",2011-12-25
+"70755","Boxing Day",2011-12-26
+"70756","Additional Public Holiday (Tasmania)",2011-12-27
+"73090","New Year's Day",2012-01-01
+"73091","Australia Day",2012-01-26
+"73092","Good Friday",2012-04-06
+"73093","Easter Monday",2012-04-09
+"73094","ANZAC Day (Most regions)",2012-04-25
+"73095","Christmas Day",2012-12-25
+"73096","Boxing Day",2012-12-26
+"75524","New Year's Day",2013-01-01
+"75525","Australia Day",2013-01-26
+"75526","Good Friday",2013-03-29
+"75527","Easter Monday",2013-04-01
+"75528","ANZAC Day (Most regions)",2013-04-25
+"75529","Christmas Day",2013-12-25
+"75530","Boxing Day",2013-12-26
+"78063","New Year's Day",2014-01-01
+"78064","Australia Day",2014-01-26
+"78065","Good Friday",2014-04-18
+"78066","Easter Monday",2014-04-21
+"78067","ANZAC Day (Most regions)",2014-04-25
+"78068","Christmas Day",2014-12-25
+"78069","Boxing Day",2014-12-26
+"80820","New Year's Day",2015-01-01
+"80821","Australia Day",2015-01-26
+"80822","Good Friday",2015-04-03
+"80823","Easter Monday",2015-04-06
+"80824","ANZAC Day",2015-04-25
+"80825","Christmas Day",2015-12-25
+"80826","Boxing Day",2015-12-26
+"83944","New Year's Day",2016-01-01
+"83945","Australia Day",2016-01-26
+"83946","Good Friday",2016-03-25
+"83947","Easter Monday",2016-03-28
+"83948","ANZAC Day",2016-04-25
+"83949","Christmas Day",2016-12-25
+"83950","Boxing Day",2016-12-26
+"87048","New Year's Day",2017-01-01
+"87049","Australia Day",2017-01-26
+"87050","Good Friday",2017-04-14
+"87051","Easter Monday",2017-04-17
+"87052","ANZAC Day",2017-04-25
+"87053","Christmas Day",2017-12-25
+"87054","Boxing Day",2017-12-26
+"90132","New Year's Day",2018-01-01
+"90133","Australia Day",2018-01-26
+"90134","Good Friday",2018-03-30
+"90135","Easter Monday",2018-04-02
+"90136","ANZAC Day",2018-04-25
+"90137","Christmas Day",2018-12-25
+"90138","Boxing Day",2018-12-26
+"93246","New Year's Day",2019-01-01
+"93247","Australia Day",2019-01-26
+"93248","Good Friday",2019-04-19
+"93249","Easter Monday",2019-04-22
+"93250","ANZAC Day",2019-04-25
+"93251","Christmas Day",2019-12-25
+"93252","Boxing Day",2019-12-26
+"96449","New Year's Day",2020-01-01
+"96450","Australia Day",2020-01-26
+"96451","Good Friday",2020-04-10
+"96452","Easter Monday",2020-04-13
+"96453","ANZAC Day",2020-04-25
+"96454","Christmas Day",2020-12-25
+"96455","Boxing Day",2020-12-26
+"99921","New Year's Day",2021-01-01
+"99922","Australia Day",2021-01-26
+"99923","Good Friday",2021-04-02
+"99924","Easter Monday",2021-04-05
+"99925","ANZAC Day",2021-04-25
+"99926","Christmas Day",2021-12-25
+"99927","Boxing Day",2021-12-26
+"103311","New Year's Day",2022-01-01
+"103312","Australia Day",2022-01-26
+"103313","Good Friday",2022-04-15
+"103314","Easter Monday",2022-04-18
+"103315","ANZAC Day",2022-04-25
+"103316","National Day of Mourning for Her Majesty The Queen",2022-09-22
+"103317","Christmas Day",2022-12-25
+"103318","Boxing Day",2022-12-26
+"106699","New Year's Day",2023-01-01
+"106700","Australia Day",2023-01-26
+"106701","Good Friday",2023-04-07
+"106702","Easter Monday",2023-04-10
+"106703","ANZAC Day",2023-04-25
+"106704","Christmas Day",2023-12-25
+"106705","Boxing Day",2023-12-26
